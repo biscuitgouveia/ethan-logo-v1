@@ -1,1 +1,2 @@
-# ethan-logo-v1
+Video App C++
+=============
